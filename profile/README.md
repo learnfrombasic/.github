@@ -1,12 +1,18 @@
-## Hi there 👋
+## Hi! Welcome to `learnfrombasic` - A Thought Experiment Lab 👋
 
-<!--
+### 🚀 Introduction
 
-**Here are some ideas to get you started:**
+I'm **Le Duc Minh**, and I created this project for curious minds eager to explore different algorithms, particularly in the realm of AI. Whether you're an experienced AI enthusiast or just beginning your journey, this playground provides a safe and engaging space to experiment, test ideas, and develop your algorithmic skills.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🤝 Contributing
+
+This project thrives on collaboration! Feel free to contribute by sharing your algorithms, insights, or feedback. Together, we can expand and refine this space to make learning even more enriching.
+
+### 📬 Connect with Me
+
+- **GitHub**: [MinLee0210](https://github.com/MinLee0210)
+- **Substack**: [English](https://minhleduc.substack.com/) | [Vietnamese](https://homnayminhcode.substack.com/)
+- **Medium**: [English](https://www.linkedin.com/in/minh-le-duc-a62863172/)
+- **Email**: minh.leduc.0210@gmail.com
+
+Happy coding! 🚀
