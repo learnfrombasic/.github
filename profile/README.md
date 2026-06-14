@@ -1,4 +1,4 @@
-# 👋 Hey there, Amazing Humans! Welcome to `learnfrombasic` 
+# 👋 Hey there, Amazing Humans! Welcome to `learnfrombasic` - LFB
 
 *Your personal AI algorithm playground where curiosity meets creativity!* ✨
 
@@ -13,7 +13,7 @@ Think of this as your friendly neighborhood lab where we dive deep into the fasc
 ### 🌈 Why You'll Love It Here:
 - 🚀 **Experiment freely** - No judgment, just pure exploration
 - 🧪 **Test wild ideas** - The crazier, the better!
-- 💡 **Learn by doing** - Hands-on discovery beats theory any day
+- 💡 **Learning by doing** - Hands-on discovery beats theory any day
 - 🤝 **Connect with fellow learners** - You're never alone on this journey
 
 ---
@@ -29,18 +29,6 @@ This project is powered by incredible people like YOU! 💪 We believe the best 
 - 🌟 **Spread the word** - Invite your friends to join the fun!
 
 *Every contribution, no matter how small, makes our community stronger!* 🌱
-
----
-
-## 💬 Let's Connect & Chat!
-
-I'd love to hear from you! Whether you have questions, ideas, or just want to say hi - don't be a stranger! 😊
-
-### 🌐 Find Me Around the Web:
-- 💻 **GitHub**: [MinLee0210](https://github.com/MinLee0210) - *Check out my latest projects!*
-- 📝 **Substack**: [English](https://minhleduc.substack.com/) | [Vietnamese](https://homnayminhcode.substack.com/) - *Deep dives & insights*
-- 🔗 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/minh-le-duc-a62863172/)
-- 📧 **Email**: minh.leduc.0210@gmail.com - *Always open for a good conversation!*
 
 ---
 
